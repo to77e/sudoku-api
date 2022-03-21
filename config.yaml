@@ -1,0 +1,11 @@
+isDebug: true
+listen:
+  type: port
+  bindIp: 0.0.0.0
+  port: 1000
+storage:
+  host: localhost
+  port: 5432
+  database: sudoku-api
+  username: sudoku-api-user
+  password: postgres
